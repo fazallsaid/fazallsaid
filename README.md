@@ -15,8 +15,8 @@ Proyek yang sudah saya kerjakan  dapat Anda lihat di profil linkedin saya.
 Berikut adalah daftar bahasa dan alat yang saya gunakan:
 
 <div>
- <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="Laravel" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
  <!-- Tambahkan lebih banyak ikon sesuai dengan kebutuhan Anda -->
 </div>
 
