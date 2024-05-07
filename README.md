@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazallsaid" alt="fazallsaid" /></a> </p>
 
-- 🔭 I’m currently working on **Menapak Indonesia**
+- 🔭 I’m currently working on **Seven Inc**
 
 - 🌱 I’m currently learning **React Native, Go and React Js**
 
